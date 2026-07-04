@@ -24,20 +24,5 @@ A clean, responsive, single-page portfolio website designed to showcase my softw
 ├── script.js        # UI interactivity script
 └── README.md        # Project documentation
 ```
-
-## 💻 Local Setup
-
-To view or edit this project locally on your machine:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com
-   ```
-2. Navigate into the project folder:
-   ```bash
-   cd your-repo-name
-   ```
-3. Open `index.html` directly in any web browser to view the page.
-
 ---
 💡 *Built and maintained by Sakshi H L(https://github.com/Sakshi-hugar).*
